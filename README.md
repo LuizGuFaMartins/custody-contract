@@ -96,6 +96,10 @@ Segue o link para visualisá-lo na Polygon Scan:
 
 Para testar a lógica do contrato sem grandes dificuldades, você pode utilizar o [Remix IDE](https://remix.ethereum.org/). Basta copiar o código do contrato para o Remix, compilar e interagir com ele na rede desejada.
 
+Segue um rápido tutorial de como fazer o deploy e testar o contrato pelo Remix:
+
+[Tutorial](https://drive.google.com/file/d/1IeCHtmj1UO27gzEYK2Q6rUuoF38_XuGP/view).
+
 ## Licença
 
 Este projeto está licenciado sob a [GPL 3.0 License](LICENSE).
