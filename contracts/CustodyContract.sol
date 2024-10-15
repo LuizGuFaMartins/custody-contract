@@ -13,7 +13,7 @@ contract CustodyContract {
     event Withdrawal(address indexed user, uint256 amount);
 
     modifier balanceGreaterThanZero() {
-        require(balances[msg.sender] > 0, "Voce nao possui saldo para sacar.");
+        require(balances[msg.sender] > 0, "Voce nao possui saldo para sacar");
         _;
     }
 
